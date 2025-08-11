@@ -52,7 +52,7 @@ I’m a backend-focused full stack developer who enjoys turning ideas into relia
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaikMoinuddin98&show_icons=true&theme=github_dark&count_private=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaikMoinuddin98&include_all_commits=true&show_icons=true&theme=github_dark&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikMoinuddin98&layout=compact&theme=github_dark)  
 
 ---
